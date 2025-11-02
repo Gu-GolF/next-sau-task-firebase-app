@@ -9,7 +9,7 @@ export default function Home() {
    <div className="flex flex-col items-center">
     <Image className="mt-20" src={task} alt="Task" width={200}/>
     <h1 className="mt-10 text-4xl font-bold text-cyan-700">
-      Manage Task App by Firebase
+      Manage Task App With Firebase
     </h1>
     
     <h1 className="mt-5 text-2xl text-cyan-700">
